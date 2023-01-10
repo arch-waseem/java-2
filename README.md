@@ -1,3 +1,7 @@
+mvn clean verify sonar:sonar -Dsonar.projectKey=sonarqube-jan-2023-b1 -Dsonar.host.url=http://172.31.15.245:9000 -Dsonar.login=sqp_6c2f32b5b4492c34f8d752c6c02af6d9c8c0786d
+
+
+
 # Demo Web Application with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
 
 ## Demo
